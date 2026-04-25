@@ -37,6 +37,10 @@ npm run dev
 
 ## Changelog
 
+### 1.0.1 — 2026-04-25
+
+- Fix Cloudflare Workers Assets deploy: replace `_redirects` with `wrangler.jsonc` SPA routing
+
 ### 1.0.0 — 2026-04-25
 
 - Initial release: project showcase with 5 cards, live status dots, responsive grid, dark theme
