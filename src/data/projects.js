@@ -1,0 +1,42 @@
+export const PROJECTS = [
+  {
+    id: 'quiz-app',
+    title: 'Quiz App',
+    desc: 'Ten questions. 30-second timer. Live leaderboard.',
+    url: 'https://quiz-app-eosin-one-15.vercel.app',
+    stack: ['React', 'Supabase', 'Vercel'],
+    builtIn: 'Module 5',
+  },
+  {
+    id: 'vibe-advanced',
+    title: 'VIBE:ADVANCED',
+    desc: 'The course site itself — eight modules, three projects.',
+    url: 'https://vibe-advanced.vercel.app',
+    stack: ['React', 'Vite', 'Supabase'],
+    builtIn: 'All modules',
+  },
+  {
+    id: 'tip-calc',
+    title: 'Tip Calculator',
+    desc: 'Split bills instantly. Clean, fast, no fluff.',
+    url: 'https://tip-calculator-phi-seven.vercel.app',
+    stack: ['React', 'Vite'],
+    builtIn: 'Module 1',
+  },
+  {
+    id: 'counter',
+    title: 'Counter',
+    desc: 'The classic first app. Deployed, not just run locally.',
+    url: 'https://counter-app-five-rouge.vercel.app',
+    stack: ['React'],
+    builtIn: 'Module 1',
+  },
+  {
+    id: 'link-in-bio',
+    title: 'Link-in-Bio',
+    desc: 'Custom profile pages, link management, click tracking.',
+    url: 'https://your-link-in-bio.vercel.app',
+    stack: ['React', 'Supabase', 'Vercel'],
+    builtIn: 'Module 6',
+  },
+]
